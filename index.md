@@ -155,6 +155,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **M. Alex Kelly** (Carleton University)
 - **Megan Kennedy**
 - **Ahmed Khaled** (Princeton University)
+- Emilie Knight (John Innes Centre, Norwich, UK)
 - **Christine Kim** (University of California, Los Angeles)
 - **Mara Kirdani-Ryan** (University of Washington, Seattle)
 - **Lukas Daniel Klausner** (St. Pölten University of Applied Sciences)
